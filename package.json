@@ -1,0 +1,20 @@
+{
+  "name": "landing-accio-vocabulary",
+  "version": "1.0.0",
+  "description": "Landing page of my youtube channel where I teach english with movies, series and songs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegotellezc/landing-accio-vocabulary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegotellezc/landing-accio-vocabulary/issues"
+  },
+  "homepage": "https://github.com/diegotellezc/landing-accio-vocabulary#readme"
+}
