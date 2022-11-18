@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/diegotellezc/landing-accio-vocabulary/issues"
   },
-  "homepage": "https://github.com/diegotellezc/landing-accio-vocabulary#readme"
+  "homepage": "https://github.com/diegotellezc/landing-accio-vocabulary#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
