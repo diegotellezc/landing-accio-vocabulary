@@ -38,6 +38,7 @@ async function fetchData(urlApi) {
         `).slice(0, 16).join('')}
         `;
         content.innerHTML = view;
-    } catch {
+    } catch (error){
+        console.log(error)
     }
 })();
