@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/diegotellezc/landing-accio-vocabulary.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "tailwind css", "learning english", "landing page", "frontend developer"],
+  "author": "Diego Téllez <diegotellezdev@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/diegotellezc/landing-accio-vocabulary/issues"
